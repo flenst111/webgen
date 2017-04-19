@@ -71,7 +71,8 @@ class  TRDocument {
 ```
 
     
-    
+  generator.setMessage(
+        '<h3 class="good">Die Anmeldung war erfolgreich! Jetzt editieren</h3>','#footer');  
     
     
     
