@@ -4,7 +4,7 @@ A Dart lib for the Browser
 
 ## Usage
 
-A simple usage example:
+A simple snippets example:
 
   
 
