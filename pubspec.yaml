@@ -1,0 +1,21 @@
+name: webgen
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+#author: Your Name <email@example.com>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+#dependencies:
+#  lib_name: any
+dependencies:
+#  lib_name: any
+  browser: any
+  cryptoutils:  '>=0.1.10'
+dev_dependencies:
+  unittest: any
+  utf: any
+  crypto: any
+  markdown: any
+  test: '>=0.12.0 <0.13.0'
